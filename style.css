@@ -21,6 +21,9 @@ body{
   border-radius: .5em;
   color: white;
 }
+.panda-btn:hover{
+    background-color: rgb(235, 220, 14);
+}
 .panda-subscribe{
     background-color: #fceae8;
 }
