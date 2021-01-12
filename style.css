@@ -1,0 +1,26 @@
+body{
+    /* background-color: tomato; */
+}
+.panda-card{
+    border: 0;
+}
+.panda-footer{
+    border: 0;
+    background-color: white;
+}
+.panda-slide{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn {
+  background-color: #ff1973;
+  border: 0;
+  border-radius: .5em;
+  color: white;
+}
+.panda-subscribe{
+    background-color: #fceae8;
+}
